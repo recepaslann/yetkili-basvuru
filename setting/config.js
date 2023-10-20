@@ -1,5 +1,5 @@
 module.exports = {
-    token: "MTE2NDY0MDUyNzQwOTQ5NjE3NQ.G7vgld.RI4Db1A0sgy7jlMBYcymXVeDjvrnuqRSCS3Rr4", 
+    token: "", 
     prefix: "/",
     Footer: "GVL",
     guildID: "1098000550932516989",
