@@ -1,12 +1,11 @@
 module.exports = {
-    token: "MTE2NDY0MDUyNzQwOTQ5NjE3NQ.G7vgld.RI4Db1A0sgy7jlMBYcymXVeDjvrnuqRSCS3Rr4", 
+    token: "MTE2NDY0MDUyNzQwOTQ5NjE3NQ.G2DLZh.8BHEuM5PaYsyoRbv6EVqo1kp2tNHl5-8ywctH0", 
     prefix: "/",
-    Footer: "GVL",
-    guildID: "1098000550932516989",
-    basvuruYt: "1120350908497272902",
-    yetkiRolleri: "1120349660893171883",
-    logKanalı: "1163898638532104294",
-    basvuruDurum: "1120350937060487259"
+    Footer: "GVL Yetkili Başvuru Sistemi",
+    guildID: "886334778293493780",
+    basvuruYt: "1161746197812359269",
+    yetkiRolleri: "1120337565287989310",
+    logKanalı: "1164907158010351719",
+    basvuruDurum: "1164907158010351719"
 }
-
 

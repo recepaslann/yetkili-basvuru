@@ -209,7 +209,7 @@ client.on("interactionCreate", async (i) => {
       .addComponents(reddet2)
       await basvuruDurum.send({ content: `<@${kişi}>, Maalesef ! Başvurunuz **kabul edilmedi** ve **yetkili ekibimize** onaylanmadınız. \n **Sizi onaylamayan kişi: **${i.user.toString()}`})
       i.update({ components: [row6]})
-      kullanıcı.user.send(`Maalef yetkili başvurun reddedilmiştir!`).catch(() => {});
+      kullanıcı.user.send(`Maalesef yetkili başvurun reddedilmiştir!`).catch(() => {});
       db.delete(i.message.id)
   }
 })
